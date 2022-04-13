@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ThepieFapi
 - 👀 I’m interested in IoT applciation development
 - 🌱 I’m currently learning microservices and mobility
-- 💞️ I’m looking to collaborate on IoT applicatons
+- 💞️ I’m looking to collaborate on IoT applications
 - 📫 How to reach me: emm_the_pie@outlook.com
 
 <!---
